@@ -1,1 +1,1 @@
-puts "Time waits for no one"
+puts "Cloning from git-explanation"
