@@ -1,1 +1,1 @@
-puts "HelloWorld"
+puts "Time waits for no one"
